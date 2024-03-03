@@ -9,3 +9,7 @@ lua main.lua
 ```
 luac main.lua && lua luac.out
 ```
+
+```
+love <folder_name>
+```
